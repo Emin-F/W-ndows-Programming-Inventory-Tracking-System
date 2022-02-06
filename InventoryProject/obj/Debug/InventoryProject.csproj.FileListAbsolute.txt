@@ -1,0 +1,10 @@
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe.config
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\bin\Debug\InventoryProject.exe
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\bin\Debug\InventoryProject.pdb
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csprojAssemblyReference.cache
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Form1.resources
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.Properties.Resources.resources
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csproj.GenerateResource.cache
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.exe
+C:\Users\fidan\source\repos\InventoryProject\InventoryProject\obj\Debug\InventoryProject.pdb
