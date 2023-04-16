@@ -1,1 +1,1 @@
-# Windows-Programming-Inventory-Tracking-System
+# Windows Programming Inventory Tracking System
